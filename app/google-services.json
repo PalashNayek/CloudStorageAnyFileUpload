@@ -1,0 +1,280 @@
+{
+  "project_info": {
+    "project_number": "377436836280",
+    "firebase_url": "https://myfirebaseproject-b3b53-default-rtdb.firebaseio.com",
+    "project_id": "myfirebaseproject-b3b53",
+    "storage_bucket": "myfirebaseproject-b3b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:53f537aecd0794d8833f4d",
+        "android_client_info": {
+          "package_name": "com.example.realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:d0acd54b65d6408f833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.chatapplicationwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:481c3b7840378e9a833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.cloudstorageanyfileupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:eb296a67b0673f18833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.facebookloginintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:46ff2ad40cdb5505833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.firebasedatabasewithmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:b9e4635914209a60833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:0732b601b3df7fdb833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.noteappwithrealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:b78d30223f8b4a6f833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.phoneauthusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-r7ppum22vuc47dkgp9flge2e94e3nsto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palash.phoneauthusingfirebase",
+            "certificate_hash": "d298d50eb95efaf8f1cb2cd934613065174d8e25"
+          }
+        },
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377436836280:android:f5961b6d6b5e0779833f4d",
+        "android_client_info": {
+          "package_name": "com.palash.realtimedbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdjCnMfqALVJXbkPL5nb9I8caaenu4us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377436836280-k0kdi9gqnce2k06s85dhkigoodprudsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
